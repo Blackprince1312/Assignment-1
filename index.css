@@ -1,0 +1,136 @@
+
+
+
+body{background-color: #0d063E}
+
+
+
+#nav {
+    background-color: rgba(28, 27, 27, 0.63);
+    color: #F9F1D0;
+    height: 60px;
+}
+
+
+
+#nav li {list-style: none;
+  padding-top: .5em;
+  font-size: 30px;
+  margin-left: 120px;
+  float: left;
+}
+#nav a {
+  text-decoration: none;
+  color: #F9F1D0;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:link {
+  color: #F9F1D0;
+}
+
+a:visited {
+    color: #F9F1D0;
+}
+
+
+.header h1 {
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 125px;
+  left: 500px;
+}
+
+
+.header img {position: relative;
+    right: 80px;
+  height:200px;
+  width: 1250px;
+  margin: 0 5em;
+  background-image: center;
+  background-size: contain;
+
+}
+.header ul {
+  position: absolute;
+  top: 150px;
+  right: 605px;
+  list-style: none;
+}
+
+
+.image-shown{
+    position: relative;
+display: inline-block;
+}
+
+.image-hidden{
+    display: none;
+}
+
+..inner{
+    position: relative;
+    width: 500px;
+    height:400px;
+    border-radius: 5px;    
+   
+}
+
+.inner img{position: relative;
+    width: 1250px;
+    height: 200px;
+      background-image: center;
+  background-size: contain;
+}
+
+.Previous , .Next {
+    float: left;
+    margin-left: 600px;
+
+    
+}
+
+#sites{position: relative;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 20px;
+    background-color: dimgray;
+    width:1000px;
+    font-size: 30px;
+    left:100px;
+}
+
+#sites2{position: relative;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 30px;
+    background-color: dimgray;
+    width:1000px;
+    font-size: 30px;
+    left:100px;
+    
+}
+
+#Me{position: relative;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 40px;
+    background-color: dimgray;
+    width:1000px;
+    font-size: 30px;
+    left:100px;
+    
+}
+
+#icons {position: relative;
+    left: 520px;
+    top: 60px;
+}
+
+
+
